@@ -22,7 +22,7 @@ Além disso, a outra equação que iremos usar é bem simples;
   
 <p align="center">
 
-<img src = "https://user-images.githubusercontent.com/93550626/164957844-84009044-91a9-48a8-9b4b-fac550ca325e.jpg" width = 1300 height = 60>   
+<img src = "https://user-images.githubusercontent.com/93550626/164957844-84009044-91a9-48a8-9b4b-fac550ca325e.jpg" width = 1800 height = 60>   
 
 <p>    
   

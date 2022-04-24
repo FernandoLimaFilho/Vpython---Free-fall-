@@ -10,4 +10,4 @@ O código criado para esse trabalho foi usado para resolver o seguinte exercíci
   
 <p>  
   
-## Resolução teórica  
+## Definindo algumas equações usadas na simulação

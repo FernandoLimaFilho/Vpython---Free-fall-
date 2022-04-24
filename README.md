@@ -11,3 +11,20 @@ O código criado para esse trabalho foi usado para resolver o seguinte exercíci
 <p>  
   
 ## Definindo algumas equações usadas na simulação
+  
+<p align="center">
+
+<img src = "https://user-images.githubusercontent.com/93550626/164957815-2b51e9f9-b891-4cef-b97c-c8a08ef0766d.jpg" width = 900 height = 200>   
+
+<p>   
+  
+Além disso, a outra equação que iremos usar é bem simples;
+  
+<p align="center">
+
+<img src = "https://user-images.githubusercontent.com/93550626/164957844-84009044-91a9-48a8-9b4b-fac550ca325e.jpg" width = 920 height = 60>   
+
+<p>    
+  
+
+  
